@@ -1,0 +1,10 @@
+streamlit
+keras
+keras-vggface
+tensorflow
+mtcnn
+numpy
+scikit-learn
+Pillow
+bing-image-downloader
+tqdm

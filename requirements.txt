@@ -1,6 +1,7 @@
 streamlit
 keras
 keras-vggface
+keras-applications
 tensorflow
 mtcnn
 numpy

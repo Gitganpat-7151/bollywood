@@ -7,7 +7,6 @@ mtcnn==0.1.0
 scikit-learn
 opencv-python
 pillow
-bing-image-downloader
 tqdm
-numpy
+numpy==1.23.5
 

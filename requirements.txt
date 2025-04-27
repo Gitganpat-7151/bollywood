@@ -6,6 +6,7 @@ keras-applications
 mtcnn
 numpy
 scikit-learn
+opencv-python
 Pillow
 bing-image-downloader
 tqdm
